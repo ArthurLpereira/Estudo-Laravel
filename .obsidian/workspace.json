@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "c20a65857bc13e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee362365a9dc5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33400024d6ea2c02",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/Laravel geral.canvas",
+                "viewState": {
+                  "x": 175.4949522248096,
+                  "y": 248.34884087963604,
+                  "zoom": -1.7498035449584326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Laravel geral"
+            }
+          },
+          {
+            "id": "27d2eaecaacc6215",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/Rotas/rotas Canvas.canvas",
+                "viewState": {
+                  "x": 214.62687807823363,
+                  "y": -27.47434517374044,
+                  "zoom": -2.5072776723780916
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "rotas Canvas"
+            }
+          },
+          {
+            "id": "f4fe56f968dc704c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/Model/Model.canvas",
+                "viewState": {
+                  "x": 584.5,
+                  "y": 680,
+                  "zoom": -1.3913862312141985
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Model"
+            }
+          },
+          {
+            "id": "fefac19d1921c688",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/Migrations/Migrations.canvas",
+                "viewState": {
+                  "x": 1490,
+                  "y": -190,
+                  "zoom": -2.5540064320332774
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Migrations"
+            }
+          },
+          {
+            "id": "75200be3f25a00f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/CRUD/CRUD LARAVEL.canvas",
+                "viewState": {
+                  "x": 260.3597612789143,
+                  "y": 1273.9651479005965,
+                  "zoom": -3.540638215844832
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CRUD LARAVEL"
+            }
+          },
+          {
+            "id": "1b6fe44ff5a83134",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laravel/Controller/Controller Laravel.canvas",
+                "viewState": {
+                  "x": -2867.7772424526956,
+                  "y": 253.2138983816643,
+                  "zoom": -2.196948611774421
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Controller Laravel"
+            }
+          },
+          {
+            "id": "f04ffae5b9aa6e81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26c08689eab192bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f7b8794853549c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b609f700caa1cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bc4c2ca939ec75a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "cbb1c711c18e43fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03361fd349da857c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9027a90f5fa6a20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767c5d50b896a859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "3d5f7bc26a3502c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "bccdd3441bdb6d1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3309fcf2d46a858",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f04ffae5b9aa6e81",
+  "lastOpenFiles": [
+    "Sem título.canvas",
+    "Laravel/Rotas/Rota com Dois Parâmetros (ID e Nome).md",
+    "Laravel/Rotas/Rota com Parâmetro Alfabético.md",
+    "Laravel/Rotas/Rota com Parâmetro Estático pela URL.md",
+    "Laravel/Rotas/Rota com Parâmetro Obrigatório pela URL.md",
+    "Laravel/Rotas/Rota com Parâmetro Opcional.md",
+    "Laravel/Rotas/Rota Nomeada.md",
+    "Laravel/Blade/Blade.canvas",
+    "Laravel/Controller/Controller Laravel.canvas",
+    "Laravel/CRUD/CRUD LARAVEL.canvas",
+    "Laravel/Migrations/Migrations.canvas",
+    "Laravel/Model/Model.canvas",
+    "Laravel/Rotas/rotas Canvas.canvas",
+    "Laravel/Laravel geral.canvas",
+    "Laravel/Laravel.md",
+    "Laravel/básico/Básico.md",
+    "Bem-vindo.md"
+  ]
+}

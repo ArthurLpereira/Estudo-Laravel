@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"131175ace2c3e3ab","type":"text","text":"Blade","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"9234496919d93ab6","type":"text","text":"Requisito","x":-125,"y":-193,"width":250,"height":60,"color":"3"},
+		{"id":"3a66c8bde35a0aa3","type":"file","file":"Laravel/Blade/Para usar.md","x":-180,"y":-500,"width":360,"height":240,"color":"3"},
+		{"id":"324b5c48fe31d0df","type":"text","text":"Como deixar organizado ","x":250,"y":-32,"width":250,"height":60,"color":"2"},
+		{"id":"75f62c5b49e0c005","type":"file","file":"Laravel/Blade/Organizar.md","x":680,"y":-182,"width":849,"height":364,"color":"2"},
+		{"id":"1db3cf4413688f9f","type":"text","text":"Exemplo básico","x":-127,"y":188,"width":250,"height":60,"color":"1"},
+		{"id":"70d5d204956d3052","type":"file","file":"Laravel/Blade/View (Página Filha).md","x":225,"y":614,"width":400,"height":400,"color":"1"},
+		{"id":"7ed37f2ffc7b7c7c","type":"file","file":"Laravel/Blade/Layout (Template Mestre).md","x":-634,"y":614,"width":525,"height":400,"color":"1"},
+		{"id":"05a995747c7e53e1","type":"text","text":"Arquivo que vai ser mostrado","x":-371,"y":433,"width":311,"height":60,"color":"1"},
+		{"id":"9ef7e2472a54104e","type":"text","text":"Arquivo que contem o código","x":75,"y":433,"width":300,"height":60,"color":"1"},
+		{"id":"f8b8daea95787496","type":"text","text":"O que usar","x":-592,"y":-32,"width":250,"height":60,"color":"4"},
+		{"id":"b19de1af7fa85285","type":"file","file":"Laravel/Blade/Principais Comandos.md","x":-1440,"y":-133,"width":651,"height":235,"color":"4"}
+	],
+	"edges":[
+		{"id":"478ab2fd428859be","fromNode":"131175ace2c3e3ab","fromSide":"top","toNode":"9234496919d93ab6","toSide":"bottom"},
+		{"id":"e9563596a8388ac2","fromNode":"9234496919d93ab6","fromSide":"top","toNode":"3a66c8bde35a0aa3","toSide":"bottom"},
+		{"id":"5ea800f39d689ef6","fromNode":"131175ace2c3e3ab","fromSide":"right","toNode":"324b5c48fe31d0df","toSide":"left"},
+		{"id":"4116b54458c11499","fromNode":"324b5c48fe31d0df","fromSide":"right","toNode":"75f62c5b49e0c005","toSide":"left"},
+		{"id":"c5fc66d34b59baa5","fromNode":"131175ace2c3e3ab","fromSide":"bottom","toNode":"1db3cf4413688f9f","toSide":"top"},
+		{"id":"d94a820074adecbe","fromNode":"1db3cf4413688f9f","fromSide":"bottom","toNode":"05a995747c7e53e1","toSide":"top"},
+		{"id":"950577b0b22c4be6","fromNode":"1db3cf4413688f9f","fromSide":"bottom","toNode":"9ef7e2472a54104e","toSide":"top"},
+		{"id":"e05975f2d6375070","fromNode":"9ef7e2472a54104e","fromSide":"bottom","toNode":"70d5d204956d3052","toSide":"top"},
+		{"id":"e2ba8ec45dc01e49","fromNode":"05a995747c7e53e1","fromSide":"bottom","toNode":"7ed37f2ffc7b7c7c","toSide":"top"},
+		{"id":"0b1a530324ec7ad6","fromNode":"131175ace2c3e3ab","fromSide":"left","toNode":"f8b8daea95787496","toSide":"right"},
+		{"id":"ef9827cbb947e4c7","fromNode":"f8b8daea95787496","fromSide":"left","toNode":"b19de1af7fa85285","toSide":"right"},
+		{"id":"ff87d2a9119a4b83","fromNode":"b19de1af7fa85285","fromSide":"bottom","toNode":"1db3cf4413688f9f","toSide":"left"}
+	]
+}

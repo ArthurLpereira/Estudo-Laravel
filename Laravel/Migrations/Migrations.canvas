@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"64f030846cb5a6e3","type":"text","text":"Migrations","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"c737dfd8ef96a06b","type":"text","text":"Como criar a migration","x":-126,"y":-192,"width":250,"height":60,"color":"1"},
+		{"id":"11cde9c45d1605a1","type":"file","file":"Laravel/Migrations/Começo da criação.md","x":-200,"y":-520,"width":379,"height":260,"color":"1"},
+		{"id":"811c92b52754d199","type":"file","file":"Laravel/Migrations/Pasted image 20250302162450.png","x":-358,"y":-1040,"width":715,"height":380,"color":"1"},
+		{"id":"e8418f6a6c2d3643","type":"file","file":"Laravel/Migrations/Alterações.md","x":600,"y":-1146,"width":500,"height":246,"color":"1"},
+		{"id":"9bd34e46beee8163","type":"file","file":"Laravel/Migrations/Terminal para criação.md","x":823,"y":-554,"width":757,"height":334,"color":"2"},
+		{"id":"9067abeacfbd31b7","type":"text","text":"Vamos criar a migration agora","x":357,"y":-428,"width":308,"height":53,"color":"2"},
+		{"id":"54020b1ddd13c1a7","type":"text","text":"Arquivo criado","x":1640,"y":-802,"width":250,"height":60,"color":"2"},
+		{"id":"51bbcdd130a2b06b","type":"file","file":"Laravel/Migrations/Como encontrar.md","x":1507,"y":-1080,"width":517,"height":206,"color":"2"},
+		{"id":"b3ae00bab3072b77","type":"text","text":"Como ele vem ","x":1640,"y":-1258,"width":250,"height":60,"color":"2"},
+		{"id":"679bd232e076da50","type":"text","text":"O que fazer as funções","x":2461,"y":-1739,"width":250,"height":60,"color":"2"},
+		{"id":"67fc9131c9b22075","type":"file","file":"Laravel/Migrations/UP e Down.md","x":2900,"y":-1844,"width":438,"height":270,"color":"2"},
+		{"id":"3282120abea8bdb7","type":"text","text":"Como criar colunas nas tabelas","x":772,"y":111,"width":288,"height":50,"color":"3"},
+		{"id":"d007cd73b4e1e80a","type":"text","text":"Depois de colocar as tabelas","x":2313,"y":228,"width":250,"height":60,"color":"3"},
+		{"id":"e71912a76fca4947","type":"file","file":"Laravel/Migrations/Rodando a migrate.md","x":2780,"y":124,"width":480,"height":296,"color":"3"},
+		{"id":"ddcbe03a408edcf1","type":"file","file":"Laravel/Migrations/Arquivo base.md","x":1320,"y":-2160,"width":867,"height":740,"color":"2"},
+		{"id":"dac01bc93f0adfd2","type":"file","file":"Laravel/Migrations/Criando colunas.md","x":1240,"y":-40,"width":760,"height":1020,"color":"3"},
+		{"id":"fcd2702e9bbdf186","type":"text","text":"Tipos de dados","x":1620,"y":1200,"width":250,"height":60,"color":"3"},
+		{"id":"577f12d45c786df3","type":"file","file":"Laravel/Migrations/Mais sobre os tipos.md","x":1680,"y":1500,"width":460,"height":280,"color":"3"}
+	],
+	"edges":[
+		{"id":"ad62491c8eb6b7bc","fromNode":"64f030846cb5a6e3","fromSide":"top","toNode":"c737dfd8ef96a06b","toSide":"bottom"},
+		{"id":"84a14d07160a731e","fromNode":"c737dfd8ef96a06b","fromSide":"top","toNode":"11cde9c45d1605a1","toSide":"bottom"},
+		{"id":"523fbd6416d584bc","fromNode":"11cde9c45d1605a1","fromSide":"top","toNode":"811c92b52754d199","toSide":"bottom"},
+		{"id":"0b01da8a12427aba","fromNode":"811c92b52754d199","fromSide":"right","toNode":"e8418f6a6c2d3643","toSide":"left"},
+		{"id":"8434b11bce5a8a18","fromNode":"11cde9c45d1605a1","fromSide":"right","toNode":"9067abeacfbd31b7","toSide":"left"},
+		{"id":"cd1d8756eecff103","fromNode":"9067abeacfbd31b7","fromSide":"right","toNode":"9bd34e46beee8163","toSide":"left"},
+		{"id":"b49ff144c0436d82","fromNode":"9bd34e46beee8163","fromSide":"top","toNode":"54020b1ddd13c1a7","toSide":"bottom"},
+		{"id":"9f20b1a37f33977a","fromNode":"54020b1ddd13c1a7","fromSide":"top","toNode":"51bbcdd130a2b06b","toSide":"bottom"},
+		{"id":"c396e4d5f928e2de","fromNode":"51bbcdd130a2b06b","fromSide":"top","toNode":"b3ae00bab3072b77","toSide":"bottom"},
+		{"id":"29753cd678255136","fromNode":"b3ae00bab3072b77","fromSide":"top","toNode":"ddcbe03a408edcf1","toSide":"bottom"},
+		{"id":"ac9f53d6f941fc1f","fromNode":"ddcbe03a408edcf1","fromSide":"right","toNode":"679bd232e076da50","toSide":"left"},
+		{"id":"45f63c7de398be66","fromNode":"679bd232e076da50","fromSide":"right","toNode":"67fc9131c9b22075","toSide":"left"},
+		{"id":"7619fe4f1b9331cf","fromNode":"64f030846cb5a6e3","fromSide":"right","toNode":"3282120abea8bdb7","toSide":"left"},
+		{"id":"c9705522e97a534c","fromNode":"dac01bc93f0adfd2","fromSide":"right","toNode":"d007cd73b4e1e80a","toSide":"left"},
+		{"id":"c47d5b87109c6518","fromNode":"d007cd73b4e1e80a","fromSide":"right","toNode":"e71912a76fca4947","toSide":"left"},
+		{"id":"dc9cac90de7a28ef","fromNode":"dac01bc93f0adfd2","fromSide":"bottom","toNode":"fcd2702e9bbdf186","toSide":"top"},
+		{"id":"d15f50921bf19e2a","fromNode":"fcd2702e9bbdf186","fromSide":"bottom","toNode":"577f12d45c786df3","toSide":"top"},
+		{"id":"a8ba813750bebdd3","fromNode":"3282120abea8bdb7","fromSide":"right","toNode":"dac01bc93f0adfd2","toSide":"left"}
+	]
+}

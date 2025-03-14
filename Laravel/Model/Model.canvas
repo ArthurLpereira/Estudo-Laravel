@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"8d358e2a42b4b500","type":"text","text":"Models","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2ba233761d6b363d","type":"text","text":"Criando","x":289,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"f37c793000b41846","type":"file","file":"Laravel/Model/Como criar.md","x":680,"y":-200,"width":400,"height":400,"color":"3"},
+		{"id":"88513e870ed76a3b","type":"text","text":"Onde vem","x":759,"y":408,"width":250,"height":60,"color":"3"},
+		{"id":"4e3b0da18ed31c0a","type":"file","file":"Laravel/Model/Onde encontrar.md","x":1220,"y":312,"width":446,"height":252,"color":"3"},
+		{"id":"d2c954515c1aa2fb","type":"text","text":"Como vem","x":1319,"y":632,"width":250,"height":60,"color":"3"},
+		{"id":"cad5fc8cc9f374fe","type":"file","file":"Laravel/Model/Arquivo Base.md","x":1245,"y":838,"width":400,"height":400,"color":"3"},
+		{"id":"1dfabc0bf21c2f74","type":"text","text":"Exemplo","x":-126,"y":164,"width":250,"height":60,"color":"2"},
+		{"id":"a5b9250864c444ad","type":"file","file":"Laravel/Model/Exemplo prático.md","x":-248,"y":408,"width":497,"height":476,"color":"2"},
+		{"id":"40806c3fad065eb1","type":"text","text":"protect","x":-422,"y":1051,"width":250,"height":60,"color":"2"},
+		{"id":"91cf45f1e5800e19","type":"text","text":"fillable","x":159,"y":1056,"width":250,"height":60,"color":"2"},
+		{"id":"58433f2030b268db","type":"file","file":"Laravel/Model/O que é protect.md","x":-497,"y":1260,"width":397,"height":300,"color":"2"},
+		{"id":"158a06c44bee6e53","type":"file","file":"Laravel/Model/O que é Fillable.md","x":80,"y":1280,"width":411,"height":280,"color":"2"}
+	],
+	"edges":[
+		{"id":"6d759d286eef5361","fromNode":"8d358e2a42b4b500","fromSide":"right","toNode":"2ba233761d6b363d","toSide":"left"},
+		{"id":"5254538bb13394eb","fromNode":"2ba233761d6b363d","fromSide":"right","toNode":"f37c793000b41846","toSide":"left"},
+		{"id":"2148f597d4b6ff41","fromNode":"f37c793000b41846","fromSide":"bottom","toNode":"88513e870ed76a3b","toSide":"top"},
+		{"id":"970ca92a9aeea434","fromNode":"88513e870ed76a3b","fromSide":"right","toNode":"4e3b0da18ed31c0a","toSide":"left"},
+		{"id":"35f20f81ca5fb7a4","fromNode":"4e3b0da18ed31c0a","fromSide":"bottom","toNode":"d2c954515c1aa2fb","toSide":"top"},
+		{"id":"01af38048ee9f10a","fromNode":"d2c954515c1aa2fb","fromSide":"bottom","toNode":"cad5fc8cc9f374fe","toSide":"top"},
+		{"id":"3f145a08efae4f0b","fromNode":"8d358e2a42b4b500","fromSide":"bottom","toNode":"1dfabc0bf21c2f74","toSide":"top"},
+		{"id":"1029e39c480dbb86","fromNode":"1dfabc0bf21c2f74","fromSide":"bottom","toNode":"a5b9250864c444ad","toSide":"top"},
+		{"id":"4f45f05299b3e2b2","fromNode":"a5b9250864c444ad","fromSide":"bottom","toNode":"40806c3fad065eb1","toSide":"top"},
+		{"id":"0b8aa827a7dc4ccd","fromNode":"a5b9250864c444ad","fromSide":"bottom","toNode":"91cf45f1e5800e19","toSide":"top"},
+		{"id":"d3d36a7ec97bf9d9","fromNode":"40806c3fad065eb1","fromSide":"bottom","toNode":"58433f2030b268db","toSide":"top"},
+		{"id":"f7fcf7b5e269ba97","fromNode":"91cf45f1e5800e19","fromSide":"bottom","toNode":"158a06c44bee6e53","toSide":"top"}
+	]
+}
