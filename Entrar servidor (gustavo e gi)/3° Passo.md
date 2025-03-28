@@ -1,0 +1,1 @@
+No lado direito da imagem, clicar em cima do nome da sua pasta

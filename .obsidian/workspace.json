@@ -8,119 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33400024d6ea2c02",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Laravel/Laravel geral.canvas",
-                "viewState": {
-                  "x": 175.4949522248096,
-                  "y": 248.34884087963604,
-                  "zoom": -1.7498035449584326
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Laravel geral"
-            }
-          },
-          {
-            "id": "27d2eaecaacc6215",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Laravel/Rotas/rotas Canvas.canvas",
-                "viewState": {
-                  "x": 214.62687807823363,
-                  "y": -27.47434517374044,
-                  "zoom": -2.5072776723780916
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "rotas Canvas"
-            }
-          },
-          {
-            "id": "f4fe56f968dc704c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Laravel/Model/Model.canvas",
-                "viewState": {
-                  "x": 584.5,
-                  "y": 680,
-                  "zoom": -1.3913862312141985
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Model"
-            }
-          },
-          {
-            "id": "fefac19d1921c688",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Laravel/Migrations/Migrations.canvas",
-                "viewState": {
-                  "x": 1490,
-                  "y": -190,
-                  "zoom": -2.5540064320332774
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Migrations"
-            }
-          },
-          {
             "id": "75200be3f25a00f8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Laravel/CRUD/CRUD LARAVEL.canvas",
+                "file": "Entrar servidor (gustavo e gi)/ge e gustavo.canvas",
                 "viewState": {
-                  "x": 260.3597612789143,
-                  "y": 1273.9651479005965,
-                  "zoom": -3.540638215844832
+                  "x": -1001.638526690076,
+                  "y": -2767.046102223943,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "CRUD LARAVEL"
+              "title": "ge e gustavo"
             }
           },
           {
-            "id": "1b6fe44ff5a83134",
+            "id": "0c79b46419942c69",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Laravel/Controller/Controller Laravel.canvas",
-                "viewState": {
-                  "x": -2867.7772424526956,
-                  "y": 253.2138983816643,
-                  "zoom": -2.196948611774421
-                }
+                "file": "Entrar servidor (gustavo e gi)/4 Passo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Controller Laravel"
-            }
-          },
-          {
-            "id": "f04ffae5b9aa6e81",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "4 Passo"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "03361fd349da857c",
@@ -267,9 +186,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f04ffae5b9aa6e81",
+  "active": "75200be3f25a00f8",
   "lastOpenFiles": [
-    "Sem título.canvas",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328135912.png",
+    "Entrar servidor (gustavo e gi)/8° Passo.md",
+    "Entrar servidor (gustavo e gi)/ge e gustavo.canvas",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328135617.png",
+    "Entrar servidor (gustavo e gi)/7° Passo.md",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328135234.png",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328135148.png",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328135126.png",
+    "Entrar servidor (gustavo e gi)/6° Passo.md",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328134924.png",
+    "Entrar servidor (gustavo e gi)/5° Passo.md",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328134535.png",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328134436.png",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328134314.png",
+    "Entrar servidor (gustavo e gi)/1 Passo.md",
+    "Entrar servidor (gustavo e gi)/4 Passo.md",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328133909.png",
+    "Entrar servidor (gustavo e gi)/3° Passo.md",
+    "Entrar servidor (gustavo e gi)/Pasted image 20250328133411.png",
+    "Entrar servidor (gustavo e gi)/2 passo.md",
+    "Entrar servidor (gustavo e gi)",
+    "Laravel/CRUD/CRUD LARAVEL.canvas",
+    "Laravel/Rotas/rotas Canvas.canvas",
+    "Laravel/Laravel geral.canvas",
+    "Laravel/Model/Model.canvas",
+    "Laravel/Controller/Controller Laravel.canvas",
+    "Laravel/Migrations/Migrations.canvas",
     "Laravel/Rotas/Rota com Dois Parâmetros (ID e Nome).md",
     "Laravel/Rotas/Rota com Parâmetro Alfabético.md",
     "Laravel/Rotas/Rota com Parâmetro Estático pela URL.md",
@@ -277,12 +222,6 @@
     "Laravel/Rotas/Rota com Parâmetro Opcional.md",
     "Laravel/Rotas/Rota Nomeada.md",
     "Laravel/Blade/Blade.canvas",
-    "Laravel/Controller/Controller Laravel.canvas",
-    "Laravel/CRUD/CRUD LARAVEL.canvas",
-    "Laravel/Migrations/Migrations.canvas",
-    "Laravel/Model/Model.canvas",
-    "Laravel/Rotas/rotas Canvas.canvas",
-    "Laravel/Laravel geral.canvas",
     "Laravel/Laravel.md",
     "Laravel/básico/Básico.md",
     "Bem-vindo.md"

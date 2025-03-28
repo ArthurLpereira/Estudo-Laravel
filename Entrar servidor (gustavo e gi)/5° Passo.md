@@ -1,0 +1,1 @@
+Na esquerda, tem os diretórios quem tem no seu computador. 

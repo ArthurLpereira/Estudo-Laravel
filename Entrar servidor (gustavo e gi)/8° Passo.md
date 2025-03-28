@@ -1,0 +1,1 @@
+Selecionar os arquivos do simulado e arrastar para a direita
